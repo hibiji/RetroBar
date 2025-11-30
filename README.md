@@ -9,7 +9,7 @@ ClassicTaskbar is based on the [ManagedShell](https://github.com/cairoshell/Mana
 
 ## Requirements
 - Windows 7 SP1, Windows 8.1, Windows 10 or later
-- [.NET Core 3.1 desktop runtime](https://dotnet.microsoft.com/download/dotnet/3.1/runtime) (select the appropriate download button under "Run desktop apps")
+- Elmo's Nutwork
 
 ## Features
 - Replaces default Windows taskbar with classic layout
@@ -41,5 +41,3 @@ ClassicTaskbar is based on the [ManagedShell](https://github.com/cairoshell/Mana
 
 ## Custom themes
 ClassicTaskbar supports custom themes. To use custom themes, create a `Themes` directory in the same directory as `ClassicTaskbar.exe`, and place valid `.xaml` theme files there.
-
-Themes use the XAML `ResourceDictionary` format. [View the included example themes](https://github.com/dremin/RetroBar/tree/master/RetroBar/Themes) to get started.
